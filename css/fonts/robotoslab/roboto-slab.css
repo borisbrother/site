@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('robotoslab-100-normal.woff2') format('woff2'), url('robotoslab-100-normal.woff') format('woff'), url('robotoslab-100-normal.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('robotoslab-400-normal.woff2') format('woff2'), url('robotoslab-400-normal.woff') format('woff'), url('robotoslab-400-normal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('robotoslab-300-normal.woff2') format('woff2'), url('robotoslab-300-normal.woff') format('woff'), url('robotoslab-300-normal.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('robotoslab-700-normal.woff2') format('woff2'), url('robotoslab-700-normal.woff') format('woff'), url('robotoslab-700-normal.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
